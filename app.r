@@ -15,6 +15,9 @@ library(purrr)
 
 ##blibli!
 
+#bloblo?
+
+
 # create country references
 country <- c("Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda", "Argentina", "Armenia", 
              "Australia", "Austria", "Azerbaijan", "Bahamas (The)", "Bahrain", "Bangladesh", "Barbados", "Belarus", 
