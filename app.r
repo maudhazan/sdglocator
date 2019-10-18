@@ -11,12 +11,6 @@ library(shinyjs)
 library(rvest)
 library(purrr)
 
-##blabla
-
-##blibli!
-
-#bloblo?
-
 
 # create country references
 country <- c("Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda", "Argentina", "Armenia", 
