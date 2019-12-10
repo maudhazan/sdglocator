@@ -144,7 +144,7 @@ lsms_countries <- c("Albania", "Albania","Albania", "Albania", "Albania", "Alban
                     "Ghana", "Ghana", "Ghana", "Guatemala", "Guyana", "India", "Iraq", "Iraq", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica",
                     "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Kazakhstan", "Kosovo", "Kyrgyz Republic", "Kyrgyz Republic", "Kyrgyz Republic", "Kyrgyz Republic",
                     "Malawi", "Malawi", "Malawi", "Malawi", "Malawi", "Mali", "Mali", "Nepal", "Nepal", "Nepal", "Nicaragua", "Nicaragua", "Nicaragua", "Nicaragua", "Niger", "Niger",
-                    "Nigeria", "Nigeria", "Nigeria", "Nigeria", "Pakistan", "Panama", "Panama", "Panama", "Peru", "Peru", "Peru", "Peru", "Serbia", "Serbia and Montenegro", "Serbia and Montenegro",
+                    "Nigeria", "Nigeria", "Nigeria", "Nigeria","Nigeria",  "Pakistan", "Panama", "Panama", "Panama", "Peru", "Peru", "Peru", "Peru", "Serbia", "Serbia and Montenegro", "Serbia and Montenegro",
                     "South Africa", "Tajikistan", "Tajikistan", "Tajikistan", "Tajikistan", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania",
                     "Tanzania", "Tanzania", "Tanzania", "Timor-Leste", "Timor-Leste", "Uganda", "Uganda", "Uganda", "Uganda", "Uganda", "Vietnam", "Vietnam", "Vietnam", "Vietnam", "Vietnam")
 
@@ -153,7 +153,7 @@ app_countries <- c("Albania", "Albania", "Albania", "Albania", "Albania", "Alban
                    "China", "Ivory Coast", "Ivory Coast", "Ivory Coast", "Ivory Coast", "Ecuador", "Ecuador", "Ethiopia", "Ethiopia", "Ethiopia", "Ethiopia", "Ghana", "Ghana", "Ghana",
                    "Ghana", "Ghana", "Guatemala", "Guyana", "India", "Iraq", "Iraq", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Jamaica",
                    "Jamaica", "Jamaica", "Jamaica", "Jamaica", "Kazakhstan", "Kosovo", "Kyrgyzstan", "Kyrgyzstan", "Kyrgyzstan", "Kyrgyzstan", "Malawi", "Malawi", "Malawi", "Malawi", "Malawi",
-                   "Mali", "Mali", "Nepal", "Nepal", "Nepal", "Nicaragua", "Nicaragua", "Nicaragua", "Nicaragua", "Niger", "Niger", "Nigeria", "Nigeria", "Nigeria", "Nigeria", "Pakistan",
+                   "Mali", "Mali", "Nepal", "Nepal", "Nepal", "Nicaragua", "Nicaragua", "Nicaragua", "Nicaragua", "Niger", "Niger", "Nigeria", "Nigeria", "Nigeria", "Nigeria", "Nigeria", "Pakistan",
                    "Panama", "Panama", "Panama", "Peru", "Peru", "Peru", "Peru", "Serbia", "Serbia, Montenegro", "Serbia, Montenegro", "South Africa", "Tajikistan", "Tajikistan", "Tajikistan",
                    "Tajikistan", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Tanzania", "Timor-Leste", "Timor-Leste",
                    "Uganda", "Uganda", "Uganda", "Uganda", "Uganda", "Vietnam", "Vietnam", "Vietnam", "Vietnam", "Vietnam")
